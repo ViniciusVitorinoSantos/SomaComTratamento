@@ -1,0 +1,2 @@
+# SomaComTratamento
+Utilização try catch
